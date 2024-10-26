@@ -1,11 +1,18 @@
-- 👋 Olá, sou o Guilherme Silva, up202205298
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<!---
-NoteThatHard/NoteThatHard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🚧 Under Construction 🚧
+
+## Hey there!👋 
+My name is **Guilherme Silva** and this section is currently a work in progress.
+
+It will soon have information about the work that I've done on everything related to programming! 
+
+Please check back soon for updates! 🛠️✨
+Thank you for your patience! 🙏
+
+---
+Expected completion: **BEFORE CHRISTMAS!** ⏳
