@@ -1,5 +1,6 @@
-<div align = "center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
+\*\*\*\*<div align = "center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
+
   <h2 align="center">Hi, my name is Guilherme Silva!</h2>
   <h3 align="center"><a href="mailto:gmpas4444@gmail.com">Contact me!</a></h3>
 </div>
@@ -29,20 +30,19 @@
 
 ## Projects
 
-| CU   | Name                                                                   | Description                                                                                                                                  | Grade (X/20.00) |
-| ---- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| RCOM | FTP Client                                                             | _Loading..._ ⏳                                                                                                                              | 17.90           |
-| RCOM | [File Transfer Application](https://github.com/gsilva00/RCOM-Project1) | _Loading..._ ⏳                                                                                                                              | 18.00           |
-| PFL  | [Turtles](https://github.com/gsilva00/PFL-Project2)                    | _Loading..._ ⏳                                                                                                                              | 17.60           |
-| PFL  | [City Analysis](https://github.com/gsilva00/PFL-Project1)              | _Loading..._ ⏳                                                                                                                              | 19.60           |
-| LBAW | [NewFlow](https://github.com/gsilva00/LBAW-Project)                    | _Loading..._ ⏳                                                                                                                              | 18.40           |
-| LTW  | [ForLove](https://github.com/gsilva00/LTW-Project)                     | _Loading..._ ⏳                                                                                                                              | 16.80           |
-| LCOM | [Head Football](https://github.com/gsilva00/LCOM-Project)              | Low-level 1v1 game with I/O driver implementation running on MINIX3 OS and developed in C                                                    | 19.33           |
-| ESOF | [Teacher4U](https://github.com/gsilva00/ESOF-Project)                  | Mobile app for private and group tutoring for University of Porto students, Flutter-based using Firebase backend and Agile methodology       | 19.30           |
-| DA   | [Ocean and Urban Deliveries](https://github.com/gsilva00/DA-Project2)  | _Loading..._ ⏳                                                                                                                              | 19.80           |
-| DA   | [Water Supply Analysis Tool](https://github.com/gsilva00/DA-Project1)  | _Loading..._ ⏳                                                                                                                              | 19.90           |
-| LDTS | [St. Tryna's Tower](https://github.com/gsilva00/LDTS-Project)          | Turn-based D20 inspired 2D Dungeon Crawler using Design Patterns, developed in Java with its Lanterna library                                | 16.90           |
-| BD   | [LoL Worlds Database](https://github.com/gsilva00/BD-Project/)         | Creation and population of SQLite database for information storage about the matches played in the 2022 League of Legends World Championship | 16.90           |
-| AED  | [Plane Pathfinder](https://github.com/gsilva00/AED-Project2)           | System to manage different airlines' flights in air travel networks around the world and provide assistance to users                         | 18.60           |
-| AED  | [FEUP Scheduler](https://github.com/gsilva00/AED-Project1)             | System to manage the schedules of the students from the Bachelors in Informatics and Computing Engineering (L.EIC)                           | 18.13           |
-| P    | [Image Processor](https://github.com/gsilva00/Programming-Project)     | A simple PNG and XPM2 image processor and manipulator in C++                                                                                 | 19.60           |
+| CU   | Name                                                                   | Description                                                                                                                                      | Grade (X/20.00) |
+| ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| RCOM | [File Transfer Application](https://github.com/gsilva00/RCOM-Project1) | Low-level Link-Layer and Application Layer protocol for file transfer in **C**                                                                   | 18.00           |
+| PFL  | [Turtles](https://github.com/gsilva00/PFL-Project2)                    | **Prolog** implementation of the 2v2 game [turtles](https://turtlesgame.xyz/)                                                                    | 17.60           |
+| PFL  | [City Analysis](https://github.com/gsilva00/PFL-Project1)              | Dijkstra and TSP implementation in **Haskell** with bonus custom Min-Heap implementation                                                         | 19.60           |
+| LBAW | [NewFlow](https://github.com/gsilva00/LBAW-Project)                    | Collaborative News website using **PHP (Laravel)** frontend and backend, with manually-implemented AJAX features and **PostgreSQL database**     | 18.40           |
+| LTW  | [ForLove](https://github.com/gsilva00/LTW-Project)                     | Community-driven second-hand clothing online store developed in vanilla **PHP stack**, **SQLite database** and web-security features             | 16.80           |
+| LCOM | [Head Football](https://github.com/gsilva00/LCOM-Project)              | Low-level 1v1 game with I/O driver implementation in **C** running on MINIX3 OS                                                                  | 19.33           |
+| ESOF | [Teacher4U](https://github.com/gsilva00/ESOF-Project)                  | Mobile app for private and group tutoring for University of Porto students, **Flutter**-based using **Firebase** backend and Agile methodology   | 19.30           |
+| DA   | [Ocean and Urban Deliveries](https://github.com/gsilva00/DA-Project2)  | System to find optimal routes for urban and ocean shipping and deliveries solving the **TSP problem** in **C++**                                 | 19.80           |
+| DA   | [Water Supply Analysis Tool](https://github.com/gsilva00/DA-Project1)  | Analysis tool for the best allocation of resources of a water-supply network in Portugal using **Graph algorithms** in **C++**                   | 19.90           |
+| LDTS | [St. Tryna's Tower](https://github.com/gsilva00/LDTS-Project)          | Turn-based D20-inspired 2D Dungeon Crawler using Design Patterns, developed in **Java** with its **Lanterna library**                            | 16.90           |
+| BD   | [LoL Worlds Database](https://github.com/gsilva00/BD-Project/)         | Creation and population of **SQLite database** for information storage about the matches played in the 2022 League of Legends World Championship | 16.90           |
+| AED  | [Plane Pathfinder](https://github.com/gsilva00/AED-Project2)           | System to manage the world's air travel networks and provide assistance to users developed using **Graph algorithms** in **C++**                 | 18.60           |
+| AED  | [FEUP Scheduler](https://github.com/gsilva00/AED-Project1)             | System to manage the schedules of the students from the Bachelors in Informatics and Computing Engineering (L.EIC) developed in **C++**          | 18.13           |
+| P    | [Image Processor](https://github.com/gsilva00/Programming-Project)     | A simple PNG and XPM2 image processor and manipulator developed in **C++**                                                                       | 19.60           |
