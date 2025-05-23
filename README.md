@@ -32,6 +32,8 @@
 
 | CU   | Name                                                                   | Description                                                                                                                                      | Grade (X/20.00) |
 | ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| IA   | [WoodBlock](https://github.com/gsilva00/IA-Project1)                   | Single-player game based on WoodBlock implementing Uninformed and Heuristic Search Algorithms and parallelization for better UX in **Python**    | 20.00           |
+| CPD  | [Matrix Multiplication](https://github.com/gsilva00/CPD-Project1)      | Development of parallel versions of Matrix Multiplication in **C/C++**. Report with the comparison between them and with the **Java** versions.  | 16.80           |
 | RCOM | [File Transfer Application](https://github.com/gsilva00/RCOM-Project1) | Low-level Link-Layer and Application Layer protocol for file transfer in **C**                                                                   | 18.00           |
 | PFL  | [Turtles](https://github.com/gsilva00/PFL-Project2)                    | **Prolog** implementation of the 2v2 game [turtles](https://turtlesgame.xyz/)                                                                    | 17.60           |
 | PFL  | [City Analysis](https://github.com/gsilva00/PFL-Project1)              | Dijkstra and TSP implementation in **Haskell** with bonus custom Min-Heap implementation                                                         | 19.60           |
