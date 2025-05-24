@@ -1,4 +1,4 @@
-\*\*\*\*<div align = "center">
+<div align = "center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
 
   <h2 align="center">Hi, my name is Guilherme Silva!</h2>
