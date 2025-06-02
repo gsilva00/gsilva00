@@ -9,25 +9,6 @@
 
 - Bachelors in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) - 3rd Year
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gsilva00&show_icons=true&include_all_commits=true&count_private=true&theme=aura">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gsilva00&show_icons=true&include_all_commits=true&count_private=true&theme=flag-india">
-    <img height="180em" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=gsilva00&show_icons=true&include_all_commits=true&count_private=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva00&layout=compact&langs_count=6&theme=aura">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva00&layout=compact&langs_count=6&theme=flag-india">
-    <img height="180em" alt="My Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva00&layout=compact&langs_count=6">
-  </picture>
-</div>
-<br>
-<div align="center">
-  <img align="center" alt="Linux OS Badge" src="https://img.shields.io/badge/OS-Linux-informational?labelColor=f6b72a&style=for-the-badge&logo=linux&logoColor=black&color=FCC624">
-  <img align="center" alt="VS Code IDE Badge" src="https://img.shields.io/badge/IDE-VS Code-informational?labelColor=3A7ADE&style=for-the-badge&logo=vs-code&logoColor=white&color=4293F2">
-  <img align="center" alt="Git Tools Badge" src="https://img.shields.io/badge/Tools-Git-informational?labelColor=D47E54&style=for-the-badge&logo=git&logoColor=white&color=EC8D5E">
-</div>
-
 ## Projects
 
 | CU   | Name                                                                   | Description                                                                                                                                      | Grade (X/20.00) |
@@ -48,3 +29,24 @@
 | AED  | [Plane Pathfinder](https://github.com/gsilva00/AED-Project2)           | System to manage the world's air travel networks and provide assistance to users developed using **Graph algorithms** in **C++**                 | 18.60           |
 | AED  | [FEUP Scheduler](https://github.com/gsilva00/AED-Project1)             | System to manage the schedules of the students from the Bachelors in Informatics and Computing Engineering (L.EIC) developed in **C++**          | 18.13           |
 | P    | [Image Processor](https://github.com/gsilva00/Programming-Project)     | A simple PNG and XPM2 image processor and manipulator developed in **C++**                                                                       | 19.60           |
+
+## Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gsilva00&show_icons=true&include_all_commits=true&count_private=true&theme=aura">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gsilva00&show_icons=true&include_all_commits=true&count_private=true&theme=flag-india">
+    <img height="180em" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=gsilva00&show_icons=true&include_all_commits=true&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva00&layout=compact&langs_count=6&theme=aura">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva00&layout=compact&langs_count=6&theme=flag-india">
+    <img height="180em" alt="My Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva00&layout=compact&langs_count=6">
+  </picture>
+</div>
+<br>
+<div align="center">
+  <img align="center" alt="Linux OS Badge" src="https://img.shields.io/badge/OS-Linux-informational?labelColor=f6b72a&style=for-the-badge&logo=linux&logoColor=black&color=FCC624">
+  <img align="center" alt="VS Code IDE Badge" src="https://img.shields.io/badge/IDE-VS Code-informational?labelColor=3A7ADE&style=for-the-badge&logo=vs-code&logoColor=white&color=4293F2">
+  <img align="center" alt="Git Tools Badge" src="https://img.shields.io/badge/Tools-Git-informational?labelColor=D47E54&style=for-the-badge&logo=git&logoColor=white&color=EC8D5E">
+</div>
