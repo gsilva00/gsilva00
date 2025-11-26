@@ -7,6 +7,9 @@
 
 ## Current Info
 
+> Until July 2025 - last semester
+> Graduated in Informatics and Computing Engineering!! 🥳
+
 - Bachelors in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) - 3rd Year
 - Intern at INESC-TEC, working on the [Robotair](https://github.com/robotair-io) project, focusing on the development of a **Container**-based framework to facilitate the deployment of **ROS/ROS2** applications in robots.
 
