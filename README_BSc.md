@@ -8,6 +8,7 @@
 ## Current Info
 
 > Until July 2025 - last semester
+>
 > Graduated in Informatics and Computing Engineering!! 🥳
 
 - Bachelors in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) - 3rd Year
